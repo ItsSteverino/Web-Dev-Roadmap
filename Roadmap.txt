@@ -1,0 +1,161 @@
+Web Developer RoadMap: https://www.youtube.com/watch?v=7uJGjbkp0-U&ab_channel=codeSTACKr
+
+HTML:
+
+- Basic syntax
+- Semantic html
+- Forms & validation
+- Accessibility
+- SEO
+
+CSS: (Topics to learn)
+
+- Basic syntax
+- Flexbox
+- Grid
+- Responsive design
+- Rim units, viewport settings, fluid widths, media queries
+
+CSS Frameworks: (Later)
+
+Javascript: (Topics to learn)
+
+- Basic syntax
+- DOM manipulation
+- Fetch API
+- JSON
+- ES6 Plus features
+
+Javascript Frameworks: React (Later)
+
+Git / GitHub
+
+Hosting & Deployment services for website:
+
+- Netlify
+- Vercel
+- Cloudflare
+- GitHub Pages
+
+Hosting and Deployment service for “true backend environment”
+
+- Heroku
+- Linode
+- “Others”
+
+Front End Developer Checkpoint!!
+
+- Continue and learn following material to become full stack dev
+
+Node.js:
+
+- Express
+- Npm
+
+APIs: (backend query/computation send results to front end)
+
+- REST
+- GraphQL
+
+Databases: (types) (some are better than others)
+
+- Relational
+- Document
+- Graph
+- Wide Column
+
+Relational Databases: (POINTERS)
+
+- Related Data (define each tables column and type ahead of time)
+- Strict Schemas
+- ORM Needed
+
+Relational Databases: (Programs to download)
+
+- SQL
+- MySQL
+- PostgreSQL
+- MS SQL
+
+Document Databases: (NOTES)
+
+- Flexible
+- JSON
+- No ORM needed
+- (Opinion) mongodb best example
+
+Learn Javascript framework: REACT
+
+- Build SPAs
+- Stay organized
+- Interactive UI’s
+
+Framework within REACT:
+
+- Next.js
+- Gatsby
+
+CSS Framework learn:
+
+- Tailwind (LOL)
+- Bootstrap
+
+Authentication:
+
+- Auth0 (automatic authenticator)
+
+CMS (Content management system):
+
+- Wordpress
+
+  - Stuck with there service for the backend and the front-end cms
+
+- Headless CMS (wordpress has a headless option?)
+
+  - Headless CMS use with any frontend technology (Not locked into frontend tech)
+
+- Sanity.io
+- Strapi
+
+Full Stack Developer Mark!!
+
+- Make sure technologies are up to date
+- look for new tech to utilize (could add value)
+
+Soft Skills: (Include in resume)
+
+- Communication / Teamwork / Attention to detail / Problem Solving / Work Ethic / Time Management / Adaptability / Interpersonal Skills / Creativity / Leadership
+
+Losing motivation / Impostor Syndrome:
+
+- Surround yourself with supportive people
+
+Other Tech:
+
+- Front-End Frameworks
+
+  - Svelte / Svelte kit
+  - Astro
+
+- Expand Javascript
+
+  - Typescript!!!! Gigagaming
+
+- Expand CSS Skills
+
+  - CSS Animations CSS preprocessors
+  - CSS Modules
+  - CSS in JS
+
+- Back End Languages
+
+  - 100 seconds videos from fireship (explain what langs are used for)
+    - Rust / Dart / Python / PHP / Java / Kotlin , C , C# , etc.
+
+- Build Desktop Applications
+
+  - Electron.js
+
+- AI Machine Learning
+
+  - GitHub Copilot
